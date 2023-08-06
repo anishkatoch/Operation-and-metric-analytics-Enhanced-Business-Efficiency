@@ -51,9 +51,39 @@ Finally, we will dive into how users are engaging with our email service. Analyz
 
 Throughout both case studies, we will provide detailed insights and interpretations of our findings, empowering stakeholders and decision-makers to make informed choices and drive positive outcomes. Let's embark on this journey of data exploration and analysis, making a significant impact on our operational strategies! 📊🚀
 
-## Insights and Interpretations
+## Insights
 
-For each task, it is essential to provide detailed insights and interpretations of the results obtained from your SQL queries. These insights will help stakeholders and decision-makers understand the implications of the data and guide them in making informed business decisions.
+### Case Study 1: Job Data Analysis
 
-Feel free to customize this README with additional information, methodology, and visualizations to showcase your expertise in operational analytics and investigating metric spikes. Good luck, and happy data analysis! 📊🚀
+- Jobs Reviewed Over Time:
+  - Number of jobs reviewed per hour shows consistent trends in November 2020, with some fluctuations on specific days.
+  - Peak activity observed during business hours, indicating higher job reviews on workdays.
 
+- Throughput Analysis:
+  - 7-day rolling average of throughput provides a smoother representation of event rates, eliminating daily variations.
+  - Daily metrics exhibit more volatility, making trend identification challenging.
+
+- Language Share Analysis:
+  - English dominates as the most used language, followed by Spanish and French, among others.
+  - Percentage share of each language remains stable over the last 30 days.
+
+- Duplicate Rows Detection:
+  - Identified duplicate rows due to data entry errors or system glitches, affecting data accuracy.
+
+### Case Study 2: Investigating Metric Spike
+
+- Weekly User Engagement:
+  - User engagement fluctuates across different weeks, with some weeks experiencing higher activity.
+  - Identifying trends in user engagement can inform marketing efforts and content strategies.
+
+- User Growth Analysis:
+  - User growth shows steady progress over time, indicating a positive trend in product adoption.
+
+- Weekly Retention Analysis:
+  - Weekly retention rates vary across cohorts, indicating variations in user loyalty after sign-up.
+
+- Weekly Engagement Per Device:
+  - Users exhibit preferences for specific devices during different weeks, reflecting usage patterns.
+
+- Email Engagement Analysis:
+  - Email engagement metrics provide insights into communication strategy effectiveness.
