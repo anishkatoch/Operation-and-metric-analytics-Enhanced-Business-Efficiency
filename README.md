@@ -7,29 +7,49 @@ Operational Analytics is a crucial process that involves analyzing a company's e
 
 ## Case Study 1: Job Data Analysis
 
-In this case study, you will be working with a table named "job_data" with columns like job_id, actor_id, event, language, time_spent, org, and ds. Your tasks in this case study include:
+In Case Study 1, we will explore the "job_data" table, which contains vital information about jobs, actors, events, languages, time spent, organizations, and dates. Our goal is to gain valuable insights from this data to improve our understanding of job reviews and their impact on daily operations.
 
-1. **Jobs Reviewed Over Time**: Calculate the number of jobs reviewed per hour for each day in November 2020.
+### Jobs Reviewed Over Time
 
-2. **Throughput Analysis**: Calculate the 7-day rolling average of throughput (number of events per second) and discuss the preference of using daily metrics or 7-day rolling average for throughput.
+We will start by calculating the number of jobs reviewed per hour for each day in November 2020. This analysis will help us identify patterns in job reviews and their variations over time.
 
-3. **Language Share Analysis**: Calculate the percentage share of each language in the last 30 days.
+### Throughput Analysis
 
-4. **Duplicate Rows Detection**: Identify duplicate rows in the data and display them from the job_data table.
+Next, we will dive into calculating the 7-day rolling average of throughput, which refers to the number of events per second. Additionally, we will discuss the preference of using either daily metrics or 7-day rolling averages for throughput analysis and the reasons behind our choice.
+
+### Language Share Analysis
+
+In this task, we will calculate the percentage share of each language in the last 30 days. This analysis will provide valuable insights into language preferences among users and can help us make data-driven decisions regarding content localization and targeting.
+
+### Duplicate Rows Detection
+
+Lastly, we will identify duplicate rows in the "job_data" table and display them. Detecting duplicates is crucial for ensuring data quality and integrity, and this analysis will assist us in maintaining a clean and reliable dataset.
 
 ## Case Study 2: Investigating Metric Spike
 
-In this case study, you will be working with three tables: "users," "events," and "email_events." Your tasks in this case study include:
+Case Study 2 revolves around three key tables: "users," "events," and "email_events." We will conduct a detailed investigation to better understand user engagement and interactions with the email service.
 
-1. **Weekly User Engagement**: Measure the activeness of users on a weekly basis.
+### Weekly User Engagement
 
-2. **User Growth Analysis**: Analyze the growth of users over time for a product.
+Our first task will involve measuring user engagement on a weekly basis. Understanding the activeness of users will provide valuable insights into their interaction patterns, enabling us to enhance user experiences and identify areas for improvement.
 
-3. **Weekly Retention Analysis**: Analyze the retention of users on a weekly basis after signing up for a product.
+### User Growth Analysis
 
-4. **Weekly Engagement Per Device**: Measure the activeness of users on a weekly basis per device.
+Next, we will analyze the growth of users over time for our product. This analysis is crucial for tracking user acquisition trends and identifying potential growth opportunities.
 
-5. **Email Engagement Analysis**: Analyze how users are engaging with the email service.
+### Weekly Retention Analysis
+
+Analyzing the weekly retention of users who signed up for our product will help us gauge user loyalty and understand the product's stickiness. We will explore how many users continue to engage with the product after their initial sign-up.
+
+### Weekly Engagement Per Device
+
+Measuring weekly engagement per device will provide insights into users' preferred devices for interacting with our product. This information can influence our product development strategies and user experience optimization.
+
+### Email Engagement Analysis
+
+Finally, we will dive into how users are engaging with our email service. Analyzing email interactions will help us evaluate the effectiveness of our communication strategies and identify ways to enhance user engagement.
+
+Throughout both case studies, we will provide detailed insights and interpretations of our findings, empowering stakeholders and decision-makers to make informed choices and drive positive outcomes. Let's embark on this journey of data exploration and analysis, making a significant impact on our operational strategies! 📊🚀
 
 ## Insights and Interpretations
 
