@@ -60,6 +60,8 @@ Operational Analytics plays a pivotal role across various industries, including 
   - Email engagement metrics provide insights into communication strategy effectiveness.
 
 
+
+
  ## Future Scope
 
 - **Conduct Further Analysis:** Delve into fluctuations to identify factors influencing review volumes, such as marketing campaigns or system updates.
