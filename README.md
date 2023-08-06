@@ -4,11 +4,6 @@
 
 Operational Analytics is a crucial process that involves analyzing a company's end-to-end operations. This analysis helps identify areas for improvement within the company. One of the key aspects of Operational Analytics is investigating metric spikes. This involves understanding and explaining sudden changes in key metrics, such as a dip in daily user engagement or a drop in sales.
 
-## Project Overview
-
-Operational Analytics is a crucial process that involves analyzing a company's end-to-end operations to identify areas for improvement. As a Data Analyst, you will work closely with different teams, including operations, support, and marketing, to help them extract valuable insights from the data they collect.
-
-One critical aspect of Operational Analytics is investigating metric spikes. This involves understanding and explaining sudden changes in key metrics, such as a dip in daily user engagement or a drop in sales. As a Data Analyst, you will be required to answer these questions daily, making it crucial to understand how to investigate these metric spikes.
 
 ## Case Study 1: Job Data Analysis
 
