@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Operational Analytics and Investigating Metric Spike project! In this project, you will play the role of a Lead Data Analyst at a company like Microsoft. Your primary task is to analyze various datasets and tables to derive valuable insights that can improve the company's operations and understand sudden changes in key metrics.
+Welcome to the Operational Analytics and Investigating Metric Spike project! Operational Analytics is a crucial process that involves analyzing a company's end-to-end operations. This analysis helps identify areas for improvement within the company. One of the key aspects of Operational Analytics is investigating metric spikes. This involves understanding and explaining sudden changes in key metrics, such as a dip in daily user engagement or a drop in sales.
 
 ## Project Overview
 
