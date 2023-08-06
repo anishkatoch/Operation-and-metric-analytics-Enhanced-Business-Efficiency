@@ -58,3 +58,18 @@ Operational Analytics plays a pivotal role across various industries, including 
 
 - Email Engagement Analysis:
   - Email engagement metrics provide insights into communication strategy effectiveness.
+
+
+ ## Future Scope
+
+- **Conduct Further Analysis:** Delve into fluctuations to identify factors influencing review volumes, such as marketing campaigns or system updates.
+
+- **Implement Real-time Dashboard:** Proactively monitor system performance and respond to sudden changes using a 7-day rolling average.
+
+- **Explore User Demographics:** Gain deeper insights into language preferences and employ personalized content strategies.
+
+- **Conduct Cohort Analysis:** Understand user acquisition funnel and retention rates for different user groups.
+
+- **Optimize User Interface:** Enhance user experiences and overall engagement by tailoring the interface for preferred devices.
+
+Let's continue our data-driven journey and unlock the potential of data for greater success and innovation! 📊🚀
