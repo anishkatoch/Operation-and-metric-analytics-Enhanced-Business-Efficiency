@@ -40,24 +40,44 @@ Operational Analytics plays a pivotal role across various industries, including 
   - Number of jobs reviewed per hour shows consistent trends in November 2020, with some fluctuations on specific days.
   - Peak activity observed during business hours, indicating higher job reviews on workdays.
 
-- Throughput Analysis:
+#### Throughput Analysis:
+
+
+![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/65a40727-bd43-4356-88b7-9ee08deab5bd)
+
+
   - 7-day rolling average of throughput provides a smoother representation of event rates, eliminating daily variations.
   - Daily metrics exhibit more volatility, making trend identification challenging.
 
-- Language Share Analysis:
+#### Language Share Analysis:
+
+![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/3f05940e-8491-4f79-8a51-4464f2fdb4d9)
+
+
   - English dominates as the most used language, followed by Spanish and French, among others.
   - Percentage share of each language remains stable over the last 30 days.
 
-- Duplicate Rows Detection:
+#### Duplicate Rows Detection:
+
+![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/387ae737-c31b-4957-a082-2a052f68e398)
+
+
   - Identified duplicate rows due to data entry errors or system glitches, affecting data accuracy.
 
 ### Case Study 2: Investigating Metric Spike
 
-- Weekly User Engagement:
+#### Weekly User Engagement:
+
+![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/5ae364d4-e5a9-42e0-af13-a558191d5181)
+
+
   - User engagement fluctuates across different weeks, with some weeks experiencing higher activity.
   - Identifying trends in user engagement can inform marketing efforts and content strategies.
 
-- User Growth Analysis:
+#### User Growth Analysis:
+
+![growth](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/882ad599-a9e8-41eb-9257-f2e6554def1d)
+
   - User growth shows steady progress over time, indicating a positive trend in product adoption.
 
 - Weekly Retention Analysis:
