@@ -30,7 +30,7 @@ Operational Analytics plays a pivotal role across various industries, including 
 
 ### Case Study 1: Job Data Analysis
 
-- Jobs Reviewed Over Time:
+#### Jobs Reviewed Over Time:
   
 ![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/7cffc755-53a6-43e8-9110-7e1e378faf7d)
 
