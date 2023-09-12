@@ -108,7 +108,7 @@ Operational Analytics plays a pivotal role across various industries, including 
 
 
 
-**Result**
+## Result
 
 
 
@@ -122,7 +122,9 @@ The primary challenge encountered during this project was the sheer volume of da
 
 
 
-**Conclusion:**
+## Conclusion:
+
+
 Operational Analytics plays a pivotal role by harmonizing real-time data. It possesses the capability to aggregate data from diverse sources into a unified, structured, actionable solution that can generate analytical models in real-time. This, in turn, helps in creating individual customer profiles and provides a comprehensive view of a company's operations. This ensures that operational processes and systems are utilized efficiently, resulting in a significant positive impact on the efficiency of specific areas.
 
 
