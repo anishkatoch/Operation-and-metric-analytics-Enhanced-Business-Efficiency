@@ -107,6 +107,16 @@ Operational Analytics plays a pivotal role across various industries, including 
   - Email engagement metrics provide insights into communication strategy effectiveness.
 
 
+**Result**
+
+**How this project helped me:** This project has been instrumental in deepening my understanding of the significance of operational analytics. It has shed light on how companies harness metric spikes as a strategic advantage. By adopting an informed and proactive approach, they can extract valuable insights to make data-driven decisions that optimize their strategies and enhance ROI.
+
+**Challenges Faced:**
+The primary challenge encountered during this project was the sheer volume of data in Case Study 2. Importing such a massive dataset into SQL Workbench proved to be a slow process. To overcome this hurdle, I had to resort to using LOAD DATA statements. Furthermore, there was an issue with the 'user_type' column in the 'events' table, which had an integer datatype that hindered the data import process. I had to change the datatype to 'text' before resuming the data loading process into the 'events' table.
+
+**Conclusion:**
+Operational Analytics plays a pivotal role by harmonizing real-time data. It possesses the capability to aggregate data from diverse sources into a unified, structured, actionable solution that can generate analytical models in real-time. This, in turn, helps in creating individual customer profiles and provides a comprehensive view of a company's operations. This ensures that operational processes and systems are utilized efficiently, resulting in a significant positive impact on the efficiency of specific areas.
+
 
 
  ## Future Scope
