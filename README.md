@@ -80,13 +80,30 @@ Operational Analytics plays a pivotal role across various industries, including 
 
   - User growth shows steady progress over time, indicating a positive trend in product adoption.
 
-- Weekly Retention Analysis:
+#### Weekly Retention Analysis:
+
+![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/73f51659-ced9-402f-9910-348332efca0a)
+
+
   - Weekly retention rates vary across cohorts, indicating variations in user loyalty after sign-up.
 
-- Weekly Engagement Per Device:
+ #### Weekly Engagement Per Device:
+
+ ![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/6e15bc4e-9a0c-4177-8165-2759a4a66503)
+
+
+ ![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/b9997f19-f0aa-44d9-809e-cf0277978055)
+
+ 
   - Users exhibit preferences for specific devices during different weeks, reflecting usage patterns.
 
-- Email Engagement Analysis:
+ #### Email Engagement Analysis:
+
+
+ ![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/efbd1a44-d903-4655-9a30-b102ec348b03)
+
+
+ 
   - Email engagement metrics provide insights into communication strategy effectiveness.
 
 
