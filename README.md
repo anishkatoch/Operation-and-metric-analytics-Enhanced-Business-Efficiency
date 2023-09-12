@@ -1,6 +1,10 @@
 ## Introduction
 
 
+![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/a4adb565-044a-448d-b49e-fe65e982542e)
+
+
+
 Welcome to the Operational Analytics and Investigating Metric Spike project! In this project, we will explore the fascinating world of data analytics and delve into the art of deciphering insights from complex datasets. As a data analyst, I am eager to share my knowledge and expertise with you.
 
 ## Project Overview
@@ -27,6 +31,10 @@ Operational Analytics plays a pivotal role across various industries, including 
 ### Case Study 1: Job Data Analysis
 
 - Jobs Reviewed Over Time:
+  
+![image](https://github.com/anishkatoch/Operation-and-metric-analytics/assets/130006013/7cffc755-53a6-43e8-9110-7e1e378faf7d)
+
+
   - Number of jobs reviewed per hour shows consistent trends in November 2020, with some fluctuations on specific days.
   - Peak activity observed during business hours, indicating higher job reviews on workdays.
 
