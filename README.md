@@ -110,7 +110,20 @@ Key benefits of Operational Analytics include:
 
 
 
+## Analysis:
+-  It  is conducted using SQL software and involves writing queries to extract insights from the dataset. Analytical skills are crucial for crafting correct queries to answer specific questions.
 
+-  For example, to determine the number of jobs reviewed in a month, queries extract dates for the specified year and use the DISTINCT function to identify unique user IDs responsible for the work.
+
+-  In the case of throughput analysis, metrics are calculated to reveal the rate of events occurring per second. Previous data calculations are used to find the number of jobs reviewed in a week. Filtering by date ranges is achieved using the WHERE function.
+
+-  To calculate the percentage share of each language, data from jobs reviewed is necessary, and languages are counted based on distinct user IDs.
+
+-  Detecting duplicate data involves using the PARTITION function to assign different row numbers to each unique ID.
+
+-  Weekly engagement analysis employs various functions to extract desired results. Dates within specified periods are extracted, and queries are designed to calculate weekly user engagement.
+
+-  The answers to other questions are similarly derived through the formulation of appropriate queries, all following a structured analytical approach.
 
 
 ## Conclusion:
