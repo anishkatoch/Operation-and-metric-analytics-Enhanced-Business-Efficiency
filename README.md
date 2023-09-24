@@ -112,35 +112,55 @@ Key benefits of Operational Analytics include:
 
 
 
-**How this project helped me:
--  This project has been instrumental in deepening my understanding of the significance of operational analytics.
--  It has shed light on how companies harness metric spikes as a strategic advantage.
--  By adopting an informed and proactive approach, they can extract valuable insights to make data-driven decisions that optimize their strategies and enhance ROI.
-
-
-
-**Challenges Faced:**
--  The primary challenge encountered during this project was the sheer volume of data in Case Study 2.
--  Importing such a massive dataset into SQL Workbench proved to be a slow process.
--  To overcome this hurdle, I had to resort to using LOAD DATA statements.
--  Frthermore, there was an issue with the 'user_type' column in the 'events' table, which had an integer datatype that hindered the data import process.
--  I had to change the datatype to 'text' before resuming the data loading process into the 'events' table.
-
-
-
 
 ## Conclusion:
+
 
 
 -  Operational Analytics plays a pivotal role by harmonizing real-time data.
 -  It possesses the capability to aggregate data from diverse sources into a unified, structured, actionable solution that can generate analytical models in real-time.
 -  This, in turn, helps in creating individual customer profiles and provides a comprehensive view of a company's operations.
--   This ensures that operational processes and systems are utilized efficiently, resulting in a significant positive impact on the efficiency of specific areas.
+-  This ensures that operational processes and systems are utilized efficiently, resulting in a significant positive impact on the efficiency of specific areas.
 
+
+
+
+## Limitations:
+
+
+
+-  The project relies on the availability and quality of operational data. If data is incomplete, inaccurate, or not up to date, it can impact the accuracy of the insights generated.
+
+-  The project focuses on specific cases, and the insights derived may not cover all aspects of operational analytics. There are many other potential use cases and analyses that could provide additional insights.
+
+-  The insights and recommendations made in the project are specific to the datasets and cases analyzed. They may not be directly applicable to other organizations or industries without further customization and analysis.
+
+-  Implementing certain aspects of operational analytics, such as real-time monitoring and dashboard creation, may require technical expertise and resources that not all organizations possess.
+
+-  Handling sensitive operational data requires strict adherence to privacy and security regulations. Ensuring that data is anonymized and protected is essential to avoid legal and ethical issues.
+
+
+
+
+
+## Challenges:
+
+
+
+-  Handling and processing large volumes of data, especially in Case Study 2, presented a significant challenge. Importing massive datasets into SQL Workbench was slow, and overcoming this required the use of specialized loading techniques.
+
+-  In Case Study 2, the 'user_type' column in the 'events' table had an integer datatype, which posed difficulties during data import. Changing the datatype to 'text' was necessary to facilitate the data loading process.
+
+-  Analyzing complex datasets and extracting meaningful insights can be challenging. Understanding the relationships between different data points and identifying relevant patterns and trends requires advanced analytical skills.
+
+-  Operational analytics often involves aggregating data from various sources. Ensuring that these diverse datasets are integrated seamlessly and accurately can be a complex task.
+
+-  While operational analytics aims to provide real-time insights, implementing a truly real-time dashboard and monitoring system can be technically challenging and resource-intensive.
 
 
 
  ## Future Scope
+
 
 - **Conduct Further Analysis:** Delve into fluctuations to identify factors influencing review volumes, such as marketing campaigns or system updates.
 
@@ -152,4 +172,10 @@ Key benefits of Operational Analytics include:
 
 - **Optimize User Interface:** Enhance user experiences and overall engagement by tailoring the interface for preferred devices.
 
-Let's continue our data-driven journey and unlock the potential of data for greater success and innovation! 📊🚀
+
+
+
+## How this project helped me:
+-  This project has been instrumental in deepening my understanding of the significance of operational analytics.
+-  It has shed light on how companies harness metric spikes as a strategic advantage.
+-  By adopting an informed and proactive approach, they can extract valuable insights to make data-driven decisions that optimize their strategies and enhance ROI.
